@@ -1,0 +1,14 @@
+{
+    "require_all":
+    {
+        "javascripts":
+        {
+            "foot": "@AvAjaxBundle/Resources/public/js/ajax.js",
+            "bootstrap-extra": "@AvAjaxBundle/Resources/public/js/ajax-modal.js"
+        },
+        "stylesheets":
+        {
+            "head": "@AvAjaxBundle/Resources/public/css/ajax.css"
+        }
+    }
+}
