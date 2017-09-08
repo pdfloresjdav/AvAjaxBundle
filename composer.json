@@ -1,17 +1,10 @@
 {
-    "name": "appventus/ajax-bundle",
+    "name": "pdfloresjdav/ajax-bundle",
     "type": "symfony-bundle",
     "description": "Symfony AjaxBundle",
     "keywords": ["ajax"],
     "homepage": "http://appventus.com/bundles/ajax",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Leny Bernard (AppVentus)",
-            "email": "leny@appventus.com",
-            "homepage": "http://appventus.com"
-        }
-    ],
     "require-dev": {
         "symfony/class-loader": "2.1.*"
     },
