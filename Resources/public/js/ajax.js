@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('body').prepend('<div id="canvasloader-container"></div>');
+    //$('body').prepend('<div id="canvasloader-container"></div>');
     createLoader('#canvasloader-container');
     $(document).on('submit', 'form[data-toggle="ajax"]', function(event) {
         if($(this).hasClass('confirm') || $(this).hasClass('confirm-waiting')){
